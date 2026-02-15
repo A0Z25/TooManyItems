@@ -1,4 +1,4 @@
-package net.integralsign_dx.examplemod;
+package net.integralsign_dx.toomanyitems;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
